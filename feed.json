@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Training in Mind",
+    "description": "",
+    "home_page_url": "https://github.com/thebillington/training-in-mind",
+    "feed_url": "https://github.com/thebillington/training-in-mind/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Katie Douthwaite"
+    },
+    "items": [
+    ]
+}
