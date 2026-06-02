@@ -344,3 +344,14 @@
       grid-template-columns: repeat(2, 1fr);
    }
 }
+
+.tim-card__img {
+   margin-bottom: 1rem;
+}
+
+.tim-card__img img {
+   aspect-ratio: 1 / 1;
+   border-radius: 18px;
+   object-fit: cover;
+   width: 100%;
+}
