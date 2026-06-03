@@ -10,7 +10,7 @@
    --tim-line: #d9e3df;
    --tim-shadow: 0 24px 70px rgba(38, 63, 74, 0.12);
    color: var(--tim-ink);
-   margin-top: clamp(2rem, 5vw, 4.5rem);
+    margin-top: clamp(0.5rem, 2vw, 1.5rem);
 }
 
 .tim-site p {
@@ -61,8 +61,8 @@
    grid-template-columns: minmax(0, 1.05fr) minmax(19rem, 0.95fr);
    margin: 0 auto;
    max-width: 1180px;
-   min-height: calc(100vh - 10rem);
-   padding: clamp(1rem, 3vw, 2rem) 0 clamp(3rem, 8vw, 6rem);
+    min-height: calc(100vh - 7rem);
+    padding: clamp(0.5rem, 2vw, 1rem) 0 clamp(3rem, 8vw, 6rem);
 }
 
 .tim-hero__content > p:not(.tim-eyebrow) {
