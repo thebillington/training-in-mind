@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Training in Mind</title>
-    <link href="https://thebillington.github.io/training-in-mind/feed.xml" rel="self" />
-    <link href="https://thebillington.github.io/training-in-mind" />
+    <link href="https://traininginmind.uk/feed.xml" rel="self" />
+    <link href="https://traininginmind.uk" />
     <updated>2026-06-02T19:19:14+01:00</updated>
     <author>
         <name>Katie Douthwaite</name>
     </author>
-    <id>https://thebillington.github.io/training-in-mind</id>
+    <id>https://traininginmind.uk</id>
 
     <entry>
         <title>Test Blog Post</title>
         <author>
             <name>Katie Douthwaite</name>
         </author>
-        <link href="https://thebillington.github.io/training-in-mind/test-blog-post.html"/>
-        <id>https://thebillington.github.io/training-in-mind/test-blog-post.html</id>
-        <media:content url="https://thebillington.github.io/training-in-mind/media/posts/2/mental-health-care-sketch-diagram_53876-123900.avif" medium="image" />
+        <link href="https://traininginmind.uk/test-blog-post.html"/>
+        <id>https://traininginmind.uk/test-blog-post.html</id>
+        <media:content url="https://traininginmind.uk/media/posts/2/mental-health-care-sketch-diagram_53876-123900.avif" medium="image" />
 
         <updated>2026-06-02T19:19:14+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://thebillington.github.io/training-in-mind/media/posts/2/mental-health-care-sketch-diagram_53876-123900.avif" alt="" />
+                        <img src="https://traininginmind.uk/media/posts/2/mental-health-care-sketch-diagram_53876-123900.avif" alt="" />
                     Here is a blog post. It is an excellent blog post. Lorem Ipsum is simply dummy text of the printing and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://thebillington.github.io/training-in-mind/media/posts/2/mental-health-care-sketch-diagram_53876-123900.avif" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://traininginmind.uk/media/posts/2/mental-health-care-sketch-diagram_53876-123900.avif" class="type:primaryImage" alt="" /></p>
                 <p>Here is a blog post. It is an excellent blog post.</p>
 <div>
 <h2>What is Lorem Ipsum?</h2>
